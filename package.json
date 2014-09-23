@@ -1,5 +1,22 @@
 {
-  "name": "sokoban-game",
+  "name": "sokoban",
+  "version": "1.0.0",
+  "description": "WebGL sokoban game",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XX/sokoban.git"
+  },
+  "keywords": [
+    "WebGl",
+    "js",
+    "game",
+    "sokoban"
+  ],
+  "author": "xx",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/XX/sokoban/issues"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bowercopy": "^1.1.0",
