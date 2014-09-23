@@ -1,0 +1,8 @@
+{
+    "name": "sokoban-game",
+    "dependencies": {
+        "jquery": "2.*",
+        "gl-matrix": "2.2.*",
+        "webgl-utils": "https://raw.githubusercontent.com/KhronosGroup/WebGL/master/sdk/demos/common/webgl-utils.js"
+    }
+} 
